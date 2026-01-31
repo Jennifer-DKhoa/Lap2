@@ -1,4 +1,4 @@
-package com.example.baitap_lap1
+package com.example.lab2_businesscard
 
 import org.junit.Test
 

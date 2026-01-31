@@ -19,6 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Baitap_Lap1"
-include(":app")
-include(":BaiTapVeNha")
+rootProject.name = "Lab2_BusinessCard_NguyenKhoa"
+include(":lab2_businesscard")
