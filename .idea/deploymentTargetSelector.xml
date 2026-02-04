@@ -31,6 +31,17 @@
       <SelectionState runConfigName="Lab2_BusinessCard_NguyenKhoa.lab2_businesscard">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
+      <SelectionState runConfigName="Lab2_BusinessCard_NguyenKhoa.Lab3_dice_roller">
+        <option name="selectionMode" value="DROPDOWN" />
+        <DropdownSelection timestamp="2026-02-04T07:13:21.208378900Z">
+          <Target type="DEFAULT_BOOT">
+            <handle>
+              <DeviceId pluginId="PhysicalDevice" identifier="serial=10630373C2001246" />
+            </handle>
+          </Target>
+        </DropdownSelection>
+        <DialogSelection />
+      </SelectionState>
     </selectionStates>
   </component>
 </project>

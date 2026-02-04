@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Lab2_BusinessCard_NguyenKhoa"
 include(":lab2_businesscard")
+include(":Lab3_dice_roller")

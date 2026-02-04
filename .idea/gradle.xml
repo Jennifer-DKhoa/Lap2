@@ -10,6 +10,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Lab3_dice_roller" />
             <option value="$PROJECT_DIR$/lab2_businesscard" />
           </set>
         </option>
