@@ -23,3 +23,4 @@ rootProject.name = "Lab2_BusinessCard_NguyenKhoa"
 include(":lab2_businesscard")
 include(":Lab3_dice_roller")
 include(":lab4_tiptime")
+include(":lab5_woof")

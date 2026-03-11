@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Woof</string>
+    <string name="dog_name_1">Koda</string>
+    <string name="dog_name_2">Lola</string>
+    <string name="dog_name_3">Bella</string>
+    <string name="dog_name_4">Faye</string>
+    <string name="dog_name_5">Frankie</string>
+    <string name="dog_name_6">Leroy</string>
+    <string name="dog_name_7">Moana</string>
+    <string name="dog_name_8">Nox</string>
+    <string name="dog_name_9">Tzeitel</string>
+
+    <string name="dog_description_1">Ăn và ngủ là đam mê.</string>
+    <string name="dog_description_2">Thích đi dạo công viên.</string>
+    <string name="dog_description_3">Rất ngoan và nghe lời.</string>
+    <string name="dog_description_4">Thích chơi bóng tennis.</string>
+    <string name="dog_description_5">Hay sủa người lạ lắm nha.</string>
+    <string name="dog_description_6">Thích được xoa đầu.</string>
+    <string name="dog_description_7">Thành viên mới của xóm.</string>
+    <string name="dog_description_8">Rất thích đào đất.</string>
+    <string name="dog_description_9">Cực kỳ thông minh.</string>
+</resources>
