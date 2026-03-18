@@ -11,9 +11,11 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Lab3_dice_roller" />
+            <option value="$PROJECT_DIR$/chuyentrang" />
             <option value="$PROJECT_DIR$/lab2_businesscard" />
             <option value="$PROJECT_DIR$/lab4_tiptime" />
             <option value="$PROJECT_DIR$/lab5_woof" />
+            <option value="$PROJECT_DIR$/lab6" />
           </set>
         </option>
       </GradleProjectSettings>
