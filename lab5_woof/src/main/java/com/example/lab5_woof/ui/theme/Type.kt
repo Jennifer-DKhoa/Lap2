@@ -8,11 +8,10 @@ import androidx.compose.ui.unit.sp
 
 val Typography = Typography(
     displayMedium = TextStyle(
-        fontFamily = FontFamily.Serif, // Kiểu chữ có chân cho sang
+        fontFamily = FontFamily.Serif,
         fontWeight = FontWeight.Bold,
         fontSize = 20.sp
     ),
-    // Dùng cho chữ "Woof" trên đầu
     displayLarge = TextStyle(
         fontFamily = FontFamily.Serif,
         fontWeight = FontWeight.ExtraBold,
